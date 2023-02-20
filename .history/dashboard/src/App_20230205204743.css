@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+TEST
+     -
+7
+.table thead th {
+8
+color: #adb5bd;
+9
+font-weight: 400;
+10
+}
+11
+.table-lg td,
+12
+.table-lg th {
+13
+padding: 0.8rem 1rem;
+14
+}
+15
+tbody td {
+16
+border-bottom: 0;
+17
+}
+18
+tbody tr {
+19
+border-bottom: 1px solid #cfdbe6;
+20
+}
+21
+tbody tr:hover {
+22
+background-color: #ebfofd !important;
+23
+}
+th

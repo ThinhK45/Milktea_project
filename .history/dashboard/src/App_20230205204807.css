@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+HELPERS
+.table thead th
+color:
+#adb5bd;
+font-weight: 400;
+.table-lg td,
+.table-lg th {
+padding: 0.8rem 1rem;
+tbody td {
+border-bottom: 0;
+tbody tr {
+border-bottom: 1px solid
+        #cfdbe6;
+}
+-
+tbody tr:hover {
+I
+background-color:
+ #ebfofd !important;
+these CSS of t
